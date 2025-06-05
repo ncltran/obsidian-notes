@@ -1,0 +1,33 @@
+# 📈 Self-Discipline Daily Log - {{date:YYYY-MM-DD}}
+
+## ⏰ Kỷ luật buổi sáng
+- Thức dậy lúc: 
+- Việc đầu tiên tôi làm là:
+- Tập luyện: ✅ / ❌ | Bài tập: 
+- Tắm lạnh: ✅ / ❌
+- Mục tiêu chính hôm nay: 
+
+---
+
+## 🔍 Theo dõi hiệu suất
+| Thời gian | Hoạt động chính | Mức độ tập trung (1–5) |
+|----------|------------------|------------------------|
+| 09:00–11:00 |                  |                        |
+| 13:00–15:00 |                  |                        |
+| 16:00–18:00 |                  |                        |
+
+---
+
+## 📚 Học tập & phát triển
+- Hôm nay tôi học được điều gì? (kiến thức kỹ năng hoặc bài học sống):
+- Tôi đã tiến bộ trong việc nào?
+- Tôi đã trì hoãn điều gì?
+
+---
+
+## 🌙 Tự đánh giá cuối ngày
+- Thành tựu hôm nay:
+- Điều cần cải thiện:
+- Kỷ luật: ⭐⭐⭐⭐☆ (1–5 sao)
+
+> 🎯 “Phiên bản tốt hơn của tôi đang chờ tôi ngày mai.”

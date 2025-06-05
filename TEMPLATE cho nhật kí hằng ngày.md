@@ -1,4 +1,4 @@
-# 🏋️ Lịch Tập – <% tp.date.now("dddd, DD/MM/YYYY") %>
+# 🏋️ Lịch Tập 
 ## 📌 Nội dung buổi tập
 
 ## 🔁 Tổng số hiệp: ___
