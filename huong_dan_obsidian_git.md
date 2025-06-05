@@ -89,5 +89,5 @@ Vào `Settings → Obsidian Git`, thiết lập:
 
 ## 🤝 Tác giả hướng dẫn
 
-Trân 
+Hướng dẫn tạo bởi ChatGPT – tối ưu cho người dùng Việt.
 

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "849651a396e2cd56",
+        "id": "45af0ea4f49f5d75",
         "type": "tabs",
         "children": [
           {
-            "id": "880a9f0106eb30b3",
+            "id": "e5fcc60c4890e70f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "huong_dan_obsidian_git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "huong_dan_obsidian_git"
+              "title": "Tab mới"
             }
           }
         ]
@@ -40,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Trình duyệt tệp"
@@ -73,12 +70,11 @@
               "title": "Đánh dấu"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 523.5
   },
   "right": {
     "id": "dc5b1def5146e10f",
@@ -148,14 +144,23 @@
               "icon": "lucide-list",
               "title": "Đề cương của huong_dan_obsidian_git"
             }
+          },
+          {
+            "id": "9a4aa5a7931c1504",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,13 +174,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "880a9f0106eb30b3",
+  "active": "1969281b830eb979",
   "lastOpenFiles": [
+    "huong_dan_obsidian_git.md",
+    "Unconfirmed 658087.crdownload",
+    "Chưa đặt tên.canvas",
+    "Excalidraw/Drawing 2025-06-04 21.32.11.excalidraw.md",
     "Tôi muốn được làm nhiều điều thú vị hơn.md",
     "File để dẫn đến đường dẫn Vault.md",
+    "Excalidraw",
+    "Chưa đặt tên.md",
     "plugins",
     "New folder",
-    "Chưa đặt tên.canvas",
     "Bollinger Bands.md",
     "Đường SMA ( Moving Average ).md",
     "MOD BALATRO.md",
