@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "45af0ea4f49f5d75",
+        "id": "a0c496cf20c9058d",
         "type": "tabs",
         "children": [
           {
-            "id": "e5fcc60c4890e70f",
+            "id": "e02a900a38999d05",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "NHẬT KÝ HẰNG NGÀY/05-06-2025.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Tab mới"
+              "title": "05-06-2025"
             }
           }
         ]
@@ -174,16 +178,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1969281b830eb979",
+  "active": "e02a900a38999d05",
   "lastOpenFiles": [
     "huong_dan_obsidian_git.md",
+    "TEMPLATE cho nhật kí hằng ngày.md",
+    "NHẬT KÝ HẰNG NGÀY/05-06-2025.md",
+    "Excalidraw/Drawing 2025-06-04 21.32.11.excalidraw.md",
+    "NHẬT KÝ HẰNG NGÀY",
     "Unconfirmed 658087.crdownload",
     "Chưa đặt tên.canvas",
-    "Excalidraw/Drawing 2025-06-04 21.32.11.excalidraw.md",
     "Tôi muốn được làm nhiều điều thú vị hơn.md",
     "File để dẫn đến đường dẫn Vault.md",
     "Excalidraw",
-    "Chưa đặt tên.md",
     "plugins",
     "New folder",
     "Bollinger Bands.md",
