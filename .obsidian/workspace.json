@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0a4d2f631389468f",
+        "id": "23f33c403eb6dd4d",
         "type": "tabs",
         "children": [
           {
-            "id": "ffc48655682be7d2",
+            "id": "a4200d767d64f214",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,18 +177,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ffc48655682be7d2",
+  "active": "a4200d767d64f214",
   "lastOpenFiles": [
-    "huong_dan_obsidian_git.md",
-    "Mẫu sống thiền định.md",
-    "TEMPLATE cho nhật kí hằng ngày.md",
+    "NHẬT KÝ HẰNG NGÀY/TEMPLATE.md",
+    "Chưa đặt tên.canvas",
     "NHẬT KÝ HẰNG NGÀY/05-06-2025.md",
-    "Mẫu sống phát triển bản thân.md",
-    "Mẫu sống sáng tạo.md",
+    "Hướng dẫn đồng bộ ghi chú với Obsidian Git.md",
+    "Chưa đặt tên.md",
+    "MẪU NHẬT KÝ",
+    "MẪU NHẬT KÝ/Mẫu sống phát triển bản thân.md",
+    "MẪU NHẬT KÝ/Mẫu sống sáng tạo.md",
+    "MẪU NHẬT KÝ/Mẫu sống thiền định.md",
     "Excalidraw/Drawing 2025-06-04 21.32.11.excalidraw.md",
     "NHẬT KÝ HẰNG NGÀY",
     "Unconfirmed 658087.crdownload",
-    "Chưa đặt tên.canvas",
     "Tôi muốn được làm nhiều điều thú vị hơn.md",
     "File để dẫn đến đường dẫn Vault.md",
     "Excalidraw",
